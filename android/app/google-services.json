@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094892955782",
+    "project_id": "flutterfinalproject2024",
+    "storage_bucket": "flutterfinalproject2024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094892955782:android:51df4327116f7cab488907",
+        "android_client_info": {
+          "package_name": "com.example.finace_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdJlz7py8hUElcuimiCjk6nszEm6YqZ-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094892955782:android:1bf52f03a83cd2e6488907",
+        "android_client_info": {
+          "package_name": "lib.main.dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdJlz7py8hUElcuimiCjk6nszEm6YqZ-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
